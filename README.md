@@ -2,67 +2,56 @@
 
 ### Junior Software Developer | Software Engineering & AI Trainee | Berlin, Germany
 
-I’m a software engineering trainee at **WBS Coding School** in Berlin, building practical full-stack applications and exploring how AI can make software more useful.
+I'm a software engineering trainee at **WBS Coding School** in Berlin, building practical applications across full-stack development and AI engineering.
 
-I enjoy turning ideas into working products — from frontend interfaces and backend APIs to database integration and AI-powered workflows. I’m currently strengthening my skills across **TypeScript, JavaScript, Python, and C#/.NET**.
+I enjoy turning ideas into working software — designing user interfaces, building backend services, integrating databases, and experimenting with AI-powered developer tools. I'm currently developing my skills in **TypeScript, JavaScript, Python, and C#/.NET**.
 
-**I’m looking for a mandatory software development internship in Berlin from 29 January 2027** (8 weeks; open to a longer placement).
+**I'm looking for a mandatory software development internship in Berlin from 29 January 2027.** The required placement is 8 weeks, and I'm open to a longer internship.
 
-[LinkedIn](https://www.linkedin.com/in/zekeriye-demirkiran-9982203a9) · [GitHub repositories](https://github.com/zekeriyedemir?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/zekeriye-demirkiran-9982203a9) · [All public repositories](https://github.com/zekeriyedemir?tab=repositories)
 
 ---
 
-## What I work with
+## Featured projects
+
+### [Forge AI — AI Developer Workspace](https://github.com/zekeriyedemir/forge-ai/tree/dev)
+
+An AI-assisted development workspace focused on helping developers work with GitHub repositories through structured agent workflows. The project uses a modern full-stack architecture with authentication, database persistence, AI tooling, and automated checks.
+
+**Tech:** Next.js · TypeScript · Prisma · PostgreSQL · GitHub API · Vitest · Playwright
+
+*Note: The current application code is on the `dev` branch.*
+
+### [Personalizr AI](https://github.com/zekeriyedemir/personalizr-ai)
+
+An AI-powered SaaS prototype that turns lead CSV data into personalized email opening lines. It combines a web application, user authentication, database-backed campaign workflows, AI generation, and subscription billing integration.
+
+**Tech:** Next.js · TypeScript · Supabase · Anthropic API · Stripe
+
+---
+
+## Technical skills
 
 | Area | Technologies |
 |---|---|
 | Frontend | JavaScript, TypeScript, React, Next.js, Tailwind CSS |
-| Backend | Node.js, Python, C#/.NET (currently developing my skills) |
-| Data | PostgreSQL, Supabase, Neon |
-| AI integration | Anthropic API, Ollama, local language models |
-| Tools & workflow | Git, GitHub, Docker, REST APIs |
+| Backend | Node.js, Python, C#/.NET (currently learning) |
+| Databases | PostgreSQL, Supabase, Neon |
+| AI | Anthropic API, Ollama, local language models, AI agent workflows |
+| Tools | Git, GitHub, Docker, REST APIs |
 | Cloud | Microsoft Azure |
-
-## Featured projects
-
-### [Personalizr AI](https://github.com/zekeriyedemir/personalizr-ai)
-An AI-powered SaaS prototype that turns lead CSV data into personalized email opening lines. The project brings together a Next.js and TypeScript application, Supabase authentication and data, Anthropic API integration, and Stripe billing.
-
-**Focus:** Full-stack development · AI API integration · SaaS workflows
-
-### [AI-Team](https://github.com/zekeriyedemir/AI-Team)
-A locally run, multi-agent software engineering workflow built with Python and Ollama. Specialized agents coordinate planning, engineering, review, testing, security checks, and documentation to generate small software projects.
-
-**Focus:** Python · Local LLMs · Agent orchestration · Developer tooling
-
-### [Recipe Book](https://github.com/zekeriyedemir/recipe-book)
-A collaborative recipe-book web application. My contribution focuses on backend/API development and database work using PostgreSQL and Neon.
-
-**Focus:** Backend development · APIs · PostgreSQL · Team collaboration
-
-### [Movie Diary](https://github.com/zekeriyedemir/movie-diary)
-A movie-journal application using TMDB data, with browser-side persistence for journal entries.
-
-**Focus:** JavaScript · API integration · LocalStorage
-
-### [FlipIQ Server](https://github.com/zekeriyedemir/flipiq-server)
-The server-side repository for the FlipIQ project.
-
-**Focus:** Backend development
-
----
 
 ## Currently learning
 
 - Building backend services and APIs with C#/.NET
 - Writing maintainable, tested application code
 - Designing reliable full-stack applications
-- Applying AI models and APIs to practical software problems
+- Integrating AI models into practical software products
 
 ## Education
 
 **WBS Coding School — Software Engineering & AI**  
-Berlin, Germany · Enrolled March 2026
+Berlin, Germany · March 2026 – present
 
 One-year professional training programme covering software engineering and AI, with practical project work and a mandatory internship.
 
@@ -75,6 +64,6 @@ One-year professional training programme covering software engineering and AI, w
 
 ---
 
-I’m interested in junior opportunities where I can contribute, learn from experienced developers, and grow into a dependable software engineer.
+I'm interested in junior software development opportunities where I can contribute to real projects, learn from experienced engineers, and grow into a dependable software developer.
 
 **Based in Berlin, Germany.**
